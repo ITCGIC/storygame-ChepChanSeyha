@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="E:\Krou_Sreng\storygame-ChepChanSeyha\app\src\main\assets"/><source path="E:\Krou_Sreng\storygame-ChepChanSeyha\app\build\generated\assets\shaders\debug"/></dataSet><dataSet config="debug"><source path="E:\Krou_Sreng\storygame-ChepChanSeyha\app\src\debug\assets"/></dataSet></merger>

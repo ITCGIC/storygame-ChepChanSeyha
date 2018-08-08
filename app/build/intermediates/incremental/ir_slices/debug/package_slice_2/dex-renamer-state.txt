@@ -1,0 +1,4 @@
+#Wed Aug 08 15:20:22 ICT 2018
+base.0=E\:\\Krou_Sreng\\storygame-ChepChanSeyha\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\2
+path.0=classes.dex
+renamed.0=classes.dex

@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from E:\Krou_Sreng\storygame-ChepChanSeyha\app\src\main\AndroidManifest.xml:2:1-21:12
-INJECTED from E:\Krou_Sreng\storygame-ChepChanSeyha\app\src\main\AndroidManifest.xml:2:1-21:12
-INJECTED from E:\Krou_Sreng\storygame-ChepChanSeyha\app\src\main\AndroidManifest.xml:2:1-21:12
-INJECTED from E:\Krou_Sreng\storygame-ChepChanSeyha\app\src\main\AndroidManifest.xml:2:1-21:12
+ADDED from E:\Krou_Sreng\storygame-ChepChanSeyha\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from E:\Krou_Sreng\storygame-ChepChanSeyha\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from E:\Krou_Sreng\storygame-ChepChanSeyha\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from E:\Krou_Sreng\storygame-ChepChanSeyha\app\src\main\AndroidManifest.xml:2:1-22:12
 MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\d52e557a57e5b369d784a4c8a2c12724\AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\84ae8fb7cbbafc0ed89e09d1770ede3f\AndroidManifest.xml:2:1-11:12
 MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\05531866a917b7c986d86809a7109d30\AndroidManifest.xml:17:1-22:12
@@ -16,25 +16,25 @@ MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\USER\.gradle\c
 MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\f549c74b706cd80529ecb77d8853bad0\AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\2d08aa3b343abae285b908e2e86dfb07\AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.core:runtime:1.1.0] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\3b94b643276a8703331c8ab0af301969\AndroidManifest.xml:17:1-22:12
-INJECTED from E:\Krou_Sreng\storygame-ChepChanSeyha\app\src\main\AndroidManifest.xml:2:1-21:12
-INJECTED from E:\Krou_Sreng\storygame-ChepChanSeyha\app\src\main\AndroidManifest.xml:2:1-21:12
-INJECTED from E:\Krou_Sreng\storygame-ChepChanSeyha\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from E:\Krou_Sreng\storygame-ChepChanSeyha\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from E:\Krou_Sreng\storygame-ChepChanSeyha\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from E:\Krou_Sreng\storygame-ChepChanSeyha\app\src\main\AndroidManifest.xml:2:1-22:12
 	package
 		ADDED from E:\Krou_Sreng\storygame-ChepChanSeyha\app\src\main\AndroidManifest.xml:3:5-42
 		INJECTED from E:\Krou_Sreng\storygame-ChepChanSeyha\app\src\main\AndroidManifest.xml
 		INJECTED from E:\Krou_Sreng\storygame-ChepChanSeyha\app\src\main\AndroidManifest.xml
 	android:versionName
 		INJECTED from E:\Krou_Sreng\storygame-ChepChanSeyha\app\src\main\AndroidManifest.xml
-		ADDED from E:\Krou_Sreng\storygame-ChepChanSeyha\app\src\main\AndroidManifest.xml:2:1-21:12
+		ADDED from E:\Krou_Sreng\storygame-ChepChanSeyha\app\src\main\AndroidManifest.xml:2:1-22:12
 		INJECTED from E:\Krou_Sreng\storygame-ChepChanSeyha\app\src\main\AndroidManifest.xml
 	android:versionCode
 		INJECTED from E:\Krou_Sreng\storygame-ChepChanSeyha\app\src\main\AndroidManifest.xml
-		ADDED from E:\Krou_Sreng\storygame-ChepChanSeyha\app\src\main\AndroidManifest.xml:2:1-21:12
+		ADDED from E:\Krou_Sreng\storygame-ChepChanSeyha\app\src\main\AndroidManifest.xml:2:1-22:12
 		INJECTED from E:\Krou_Sreng\storygame-ChepChanSeyha\app\src\main\AndroidManifest.xml
 	xmlns:android
 		ADDED from E:\Krou_Sreng\storygame-ChepChanSeyha\app\src\main\AndroidManifest.xml:2:11-69
 application
-ADDED from E:\Krou_Sreng\storygame-ChepChanSeyha\app\src\main\AndroidManifest.xml:5:5-19:19
+ADDED from E:\Krou_Sreng\storygame-ChepChanSeyha\app\src\main\AndroidManifest.xml:5:5-20:19
 MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\84ae8fb7cbbafc0ed89e09d1770ede3f\AndroidManifest.xml:9:5-20
 MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\USER\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\84ae8fb7cbbafc0ed89e09d1770ede3f\AndroidManifest.xml:9:5-20
 	android:supportsRtl
@@ -63,6 +63,10 @@ category#android.intent.category.LAUNCHER
 ADDED from E:\Krou_Sreng\storygame-ChepChanSeyha\app\src\main\AndroidManifest.xml:16:17-77
 	android:name
 		ADDED from E:\Krou_Sreng\storygame-ChepChanSeyha\app\src\main\AndroidManifest.xml:16:27-74
+activity#gictitc.storygame.storygame.Romance
+ADDED from E:\Krou_Sreng\storygame-ChepChanSeyha\app\src\main\AndroidManifest.xml:19:9-54
+	android:name
+		ADDED from E:\Krou_Sreng\storygame-ChepChanSeyha\app\src\main\AndroidManifest.xml:19:19-42
 uses-sdk
 INJECTED from E:\Krou_Sreng\storygame-ChepChanSeyha\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from E:\Krou_Sreng\storygame-ChepChanSeyha\app\src\main\AndroidManifest.xml
