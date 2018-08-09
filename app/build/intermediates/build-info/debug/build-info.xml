@@ -5,39 +5,38 @@
     build-mode="COLD"
     density="560dpi"
     format="10"
-    ir-eligibility="R_CLASS_CHANGE"
     plugin-version="3.1.4"
-    timestamp="1533717899327"
+    timestamp="1533783883715"
     token="-1625693698729651208"
-    verifier="COLD_SWAP_REQUESTED" >
+    verifier="R_CLASS_CHANGE" >
 
     <task
         name="javac"
-        duration="777" />
+        duration="1873" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="18" />
+        duration="196" />
     <task
         name="verifier"
-        duration="27" />
+        duration="162" />
 
     <artifact
-        location="E:\Krou_Sreng\storygame-ChepChanSeyha\app\build\intermediates\split-apk\debug\slices\slice_0.apk"
+        location="E:\Krou_Sreng\storygame-ChepChanSeyha\app\build\intermediates\split-apk\debug\slices\slice_3.apk"
         type="SPLIT" />
     <artifact
-        location="E:\Krou_Sreng\storygame-ChepChanSeyha\app\build\intermediates\split-apk\debug\slices\slice_3.apk"
+        location="E:\Krou_Sreng\storygame-ChepChanSeyha\app\build\intermediates\split-apk\debug\slices\slice_0.apk"
         type="SPLIT" />
     <artifact
         location="E:\Krou_Sreng\storygame-ChepChanSeyha\app\build\intermediates\split-apk\debug\slices\slice_2.apk"
         type="SPLIT" />
     <artifact
-        location="E:\Krou_Sreng\storygame-ChepChanSeyha\app\build\intermediates\split-apk\debug\slices\slice_7.apk"
+        location="E:\Krou_Sreng\storygame-ChepChanSeyha\app\build\intermediates\split-apk\debug\slices\slice_8.apk"
         type="SPLIT" />
     <artifact
-        location="E:\Krou_Sreng\storygame-ChepChanSeyha\app\build\intermediates\split-apk\debug\slices\slice_8.apk"
+        location="E:\Krou_Sreng\storygame-ChepChanSeyha\app\build\intermediates\split-apk\debug\slices\slice_7.apk"
         type="SPLIT" />
     <artifact
         location="E:\Krou_Sreng\storygame-ChepChanSeyha\app\build\intermediates\split-apk\debug\slices\slice_9.apk"
@@ -48,13 +47,16 @@
 
     <build
         build-mode="FULL"
-        timestamp="1533716415030"
+        timestamp="1533783486821"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
-            location="E:\Krou_Sreng\storygame-ChepChanSeyha\app\build\intermediates\split-apk\debug\slices\slice_0.apk"
+            location="E:\Krou_Sreng\storygame-ChepChanSeyha\app\build\intermediates\split-apk\debug\slices\slice_3.apk"
             type="SPLIT" />
         <artifact
-            location="E:\Krou_Sreng\storygame-ChepChanSeyha\app\build\intermediates\split-apk\debug\slices\slice_3.apk"
+            location="E:\Krou_Sreng\storygame-ChepChanSeyha\app\build\intermediates\split-apk\debug\slices\slice_8.apk"
+            type="SPLIT" />
+        <artifact
+            location="E:\Krou_Sreng\storygame-ChepChanSeyha\app\build\intermediates\split-apk\debug\slices\slice_9.apk"
             type="SPLIT" />
         <artifact
             location="E:\Krou_Sreng\storygame-ChepChanSeyha\app\build\intermediates\split-apk\debug\slices\slice_2.apk"
@@ -62,15 +64,6 @@
         <artifact
             location="E:\Krou_Sreng\storygame-ChepChanSeyha\app\build\intermediates\split-apk\debug\slices\slice_7.apk"
             type="SPLIT" />
-        <artifact
-            location="E:\Krou_Sreng\storygame-ChepChanSeyha\app\build\intermediates\split-apk\debug\slices\slice_9.apk"
-            type="SPLIT" />
-        <artifact
-            location="E:\Krou_Sreng\storygame-ChepChanSeyha\app\build\intermediates\split-apk\debug\slices\slice_8.apk"
-            type="SPLIT" />
-        <artifact
-            location="E:\Krou_Sreng\storygame-ChepChanSeyha\app\build\intermediates\instant-run-apk\debug\app-debug.apk"
-            type="SPLIT_MAIN" />
         <artifact
             location="E:\Krou_Sreng\storygame-ChepChanSeyha\app\build\intermediates\split-apk\debug\slices\slice_4.apk"
             type="SPLIT" />
@@ -84,28 +77,33 @@
             location="E:\Krou_Sreng\storygame-ChepChanSeyha\app\build\intermediates\split-apk\debug\dep\dependencies.apk"
             type="SPLIT" />
         <artifact
-            location="E:\Krou_Sreng\storygame-ChepChanSeyha\app\build\intermediates\split-apk\debug\slices\slice_1.apk"
-            type="SPLIT" />
-    </build>
-    <build
-        build-mode="COLD"
-        ir-eligibility="R_CLASS_CHANGE"
-        timestamp="1533717899327"
-        verifier="COLD_SWAP_REQUESTED" >
-        <artifact
             location="E:\Krou_Sreng\storygame-ChepChanSeyha\app\build\intermediates\split-apk\debug\slices\slice_0.apk"
             type="SPLIT" />
         <artifact
+            location="E:\Krou_Sreng\storygame-ChepChanSeyha\app\build\intermediates\split-apk\debug\slices\slice_1.apk"
+            type="SPLIT" />
+        <artifact
+            location="E:\Krou_Sreng\storygame-ChepChanSeyha\app\build\intermediates\instant-run-apk\debug\app-debug.apk"
+            type="SPLIT_MAIN" />
+    </build>
+    <build
+        build-mode="COLD"
+        timestamp="1533783883715"
+        verifier="R_CLASS_CHANGE" >
+        <artifact
             location="E:\Krou_Sreng\storygame-ChepChanSeyha\app\build\intermediates\split-apk\debug\slices\slice_3.apk"
+            type="SPLIT" />
+        <artifact
+            location="E:\Krou_Sreng\storygame-ChepChanSeyha\app\build\intermediates\split-apk\debug\slices\slice_0.apk"
             type="SPLIT" />
         <artifact
             location="E:\Krou_Sreng\storygame-ChepChanSeyha\app\build\intermediates\split-apk\debug\slices\slice_2.apk"
             type="SPLIT" />
         <artifact
-            location="E:\Krou_Sreng\storygame-ChepChanSeyha\app\build\intermediates\split-apk\debug\slices\slice_7.apk"
+            location="E:\Krou_Sreng\storygame-ChepChanSeyha\app\build\intermediates\split-apk\debug\slices\slice_8.apk"
             type="SPLIT" />
         <artifact
-            location="E:\Krou_Sreng\storygame-ChepChanSeyha\app\build\intermediates\split-apk\debug\slices\slice_8.apk"
+            location="E:\Krou_Sreng\storygame-ChepChanSeyha\app\build\intermediates\split-apk\debug\slices\slice_7.apk"
             type="SPLIT" />
         <artifact
             location="E:\Krou_Sreng\storygame-ChepChanSeyha\app\build\intermediates\split-apk\debug\slices\slice_9.apk"

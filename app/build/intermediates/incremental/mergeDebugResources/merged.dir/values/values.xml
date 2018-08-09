@@ -621,6 +621,7 @@
     <string name="abc_shareactionprovider_share_with_application">Share with <ns1:g example="Mail" id="application_name">%s</ns1:g></string>
     <string name="abc_toolbar_collapse_description">Collapse</string>
     <string name="app_name">StoryGame</string>
+    <string name="romance">"    One day you go to the a beautiful garden in Unite State. You see someone really handsome/beautiful that never see before. Do you want go to start a conversation with him/her."</string>
     <string name="search_menu_title">Search</string>
     <string name="status_bar_notification_info_overflow">999+</string>
     <style name="AlertDialog.AppCompat" parent="Base.AlertDialog.AppCompat"/>
